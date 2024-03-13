@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Volumes/SSD/Programming/cpp_projects/chess_board",
+      "program": "/Volumes/SSD/Programming/cpp_projects/chess_board/build/Debug/outDebug"
+    }
+  ]
+}
